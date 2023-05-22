@@ -48,3 +48,4 @@ elif choice == '3':
 
 # Сохраняем результат в xlsx файл
 matched_df.to_excel('matched_wallets.xlsx', index=False)
+print("Risk/Reward - https://t.me/RRband")
